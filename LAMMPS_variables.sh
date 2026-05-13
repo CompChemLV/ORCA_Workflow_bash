@@ -1,0 +1,5 @@
+LAMMPS_VERSION=v2025-12
+NUM_PROCS=4
+GPU=1
+IN_FILE=lennard_jones_lmpgpu.in
+
